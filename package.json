@@ -2,7 +2,7 @@
   "name": "genpact",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vardhaman-work.github.io/filter-userdata",
+  "homepage": "./",
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.1",
     "@testing-library/dom": "^10.4.0",
