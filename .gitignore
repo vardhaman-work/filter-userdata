@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+/public
+/src
+
+# testing
+/coverage
+
+# production
+/build
+
+package-lock.json
+package.json
+.env
